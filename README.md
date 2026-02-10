@@ -16,3 +16,4 @@ In fast-moving markets (like automotive inventory or crypto), manual monitoring 
 4. **Act:** High-priority anomalies are sent to Slack; raw data is logged to Google Sheets for historical analysis.
 
 ## Workflow Visualization
+![n8n Workflow Diagram](automated_market_monitor.png)
