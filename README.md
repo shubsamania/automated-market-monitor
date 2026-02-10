@@ -1,6 +1,6 @@
-Automated Market Monitor (AI Agent)
-
-Project Overview
+**Automated Market Monitor (AI Agent)**
+**
+Project Overview**
 
 In fast-moving markets (like automotive inventory or crypto), manual monitoring is inefficient. I built this automated agent to track price variance in real-time and trigger alerts only when specific statistical thresholds are met.
 
